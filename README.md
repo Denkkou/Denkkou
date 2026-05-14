@@ -25,5 +25,3 @@ I'm looking to be more involved in open-source contributions!
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/chapters.html)
 - Don Quixote & The Odyssey ;) for fun!
-
-[LinkedIn Profile](www.linkedin.com/in/joejoescho)
