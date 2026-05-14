@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Joe and I'm a BSc. Games Computing graduate (1st) turned backend software engineer.
+I'm Joe and I'm a First-Class BSc. (Hons) Games Computing graduate turned backend software engineer.
 
-Current learning endevours: Haskell & FP, Cryptography and HTTP servers in Golang, PSX emulation in C++.
+Current learning endevours: Haskell & FP, HTTP servers & protocol in Golang, PSX emulation in C++.
 
 I'm looking to be more involved in open-source contributions!
 
